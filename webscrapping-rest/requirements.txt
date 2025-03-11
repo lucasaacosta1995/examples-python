@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+aiohttp
+beautifulsoup4
+pydantic
+python-dotenv
+mysql-connector-python
+alembic
